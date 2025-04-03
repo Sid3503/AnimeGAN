@@ -44,6 +44,7 @@ def generate_images(num_images):
     fake_images = [np.transpose(img, (1, 2, 0)) for img in fake_images]  # (C, H, W) -> (H, W, C)
     return fake_images
 
+st.set_page_config(page_title="AnimeGAN AAI", page_icon="🎨")
 st.title("AnimeGAN Image Generator 🎨")
 st.write("Select the number of images to generate and click the button.")
 
