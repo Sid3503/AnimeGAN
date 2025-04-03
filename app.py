@@ -44,7 +44,7 @@ def generate_images(num_images):
     fake_images = [np.transpose(img, (1, 2, 0)) for img in fake_images]  # (C, H, W) -> (H, W, C)
     return fake_images
 
-st.title("GAN Image Generator 🎨")
+st.title("AnimeGAN Image Generator 🎨")
 st.write("Select the number of images to generate and click the button.")
 
 num_images = st.number_input("Number of images:", min_value=1, max_value=10, value=1, step=1)
