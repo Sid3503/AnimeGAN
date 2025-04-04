@@ -2,4 +2,4 @@
 
 ## Training Video
 
-https://github.com/user-attachments/assets/7d610203-6dc8-41df-a755-0ce9fc876d15
+https://github.com/user-attachments/assets/b254df75-8725-4f1d-a966-81f34339c7c4
