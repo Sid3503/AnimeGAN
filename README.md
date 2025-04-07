@@ -152,3 +152,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Anime Face Dataset](https://www.kaggle.com/splcher/animefacedataset) for the training data
 - [DCGAN Paper](https://arxiv.org/abs/1511.06434) for the model architecture inspiration
+
+## 👤 Author
+
+For any questions or issues, please open an issue on GitHub: [@Siddharth Mishra](https://github.com/Sid3503)
+
+---
+
+<p align="center">
+  Made with ❤️ and lots of ☕
+</p>
