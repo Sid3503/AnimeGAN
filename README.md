@@ -1,6 +1,6 @@
 # AnimeGAN: Generating Anime Faces with DCGANs
 
-![Anime Faces Examples](https://example.com/anime_gan_examples.png)
+![Anime Face Examples](https://github.com/user-attachments/assets/a79280ef-2617-4548-a76a-9470a535895a)
 
 ## 📋 Overview
 
